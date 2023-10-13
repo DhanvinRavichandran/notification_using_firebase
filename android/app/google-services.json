@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181191864541",
+    "project_id": "pushnofication-e2ab3",
+    "storage_bucket": "pushnofication-e2ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181191864541:android:4376271d66d3d169db6b34",
+        "android_client_info": {
+          "package_name": "com.example.nofitication_using_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKycW1ySPgPrjESi5tt7xrMYsBv1nczlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
